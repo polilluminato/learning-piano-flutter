@@ -7,10 +7,11 @@ environment:
   sdk: ^3.6.2
 
 dependencies:
-  audioplayers: ^6.1.1
   auto_route: ^9.3.0+1
   flutter:
     sdk: flutter
+  flutter_midi_pro: ^3.1.4
+  talker_flutter: ^4.6.12
   flutter_riverpod: ^2.6.1
   get_it: ^8.0.3
   riverpod_annotation: ^2.6.1
@@ -31,4 +32,4 @@ flutter:
 
   assets:
     - assets/
-    - assets/note/
+    - assets/soundfont/

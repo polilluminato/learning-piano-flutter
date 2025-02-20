@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:learning_piano/pages/home_page.dart';
+import 'package:learning_piano/presentation/pages/home_page.dart';
 
 part 'app_router.gr.dart';
 
